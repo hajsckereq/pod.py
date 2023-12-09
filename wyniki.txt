@@ -1,0 +1,70 @@
+ciag: 1000 dzielnik: 2 wynikMetoda: 3 wynikBrutal: 3
+ciag: 1000 dzielnik: 3 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1000 dzielnik: 4 wynikMetoda: 2 wynikBrutal: 2
+ciag: 1000 dzielnik: 5 wynikMetoda: 3 wynikBrutal: 3
+ciag: 1000 dzielnik: 6 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1000 dzielnik: 7 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1000 dzielnik: 8 wynikMetoda: 1 wynikBrutal: 1
+ciag: 1000 dzielnik: 9 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1000 dzielnik: 10 wynikMetoda: 3 wynikBrutal: 3
+ciag: 1001 dzielnik: 2 wynikMetoda: 3 wynikBrutal: 3
+ciag: 1001 dzielnik: 3 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1001 dzielnik: 4 wynikMetoda: 1 wynikBrutal: 1
+ciag: 1001 dzielnik: 5 wynikMetoda: 3 wynikBrutal: 3
+ciag: 1001 dzielnik: 6 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1001 dzielnik: 7 wynikMetoda: 1 wynikBrutal: 1
+ciag: 1001 dzielnik: 8 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1001 dzielnik: 9 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1001 dzielnik: 10 wynikMetoda: 3 wynikBrutal: 3
+ciag: 1002 dzielnik: 2 wynikMetoda: 9 wynikBrutal: 9
+ciag: 1002 dzielnik: 3 wynikMetoda: 12 wynikBrutal: 12
+ciag: 1002 dzielnik: 4 wynikMetoda: 5 wynikBrutal: 5
+ciag: 1002 dzielnik: 5 wynikMetoda: 6 wynikBrutal: 6
+ciag: 1002 dzielnik: 6 wynikMetoda: 9 wynikBrutal: 9
+ciag: 1002 dzielnik: 7 wynikMetoda: 3 wynikBrutal: 3
+ciag: 1002 dzielnik: 8 wynikMetoda: 2 wynikBrutal: 2
+ciag: 1002 dzielnik: 9 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1002 dzielnik: 10 wynikMetoda: 6 wynikBrutal: 6
+ciag: 1003 dzielnik: 2 wynikMetoda: 6 wynikBrutal: 6
+ciag: 1003 dzielnik: 3 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1003 dzielnik: 4 wynikMetoda: 2 wynikBrutal: 2
+ciag: 1003 dzielnik: 5 wynikMetoda: 6 wynikBrutal: 6
+ciag: 1003 dzielnik: 6 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1003 dzielnik: 7 wynikMetoda: 2 wynikBrutal: 2
+ciag: 1003 dzielnik: 8 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1003 dzielnik: 9 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1003 dzielnik: 10 wynikMetoda: 6 wynikBrutal: 6
+ciag: 1004 dzielnik: 2 wynikMetoda: 9 wynikBrutal: 9
+ciag: 1004 dzielnik: 3 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1004 dzielnik: 4 wynikMetoda: 6 wynikBrutal: 6
+ciag: 1004 dzielnik: 5 wynikMetoda: 6 wynikBrutal: 6
+ciag: 1004 dzielnik: 6 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1004 dzielnik: 7 wynikMetoda: 3 wynikBrutal: 3
+ciag: 1004 dzielnik: 8 wynikMetoda: 3 wynikBrutal: 3
+ciag: 1004 dzielnik: 9 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1004 dzielnik: 10 wynikMetoda: 6 wynikBrutal: 6
+ciag: 1005 dzielnik: 2 wynikMetoda: 6 wynikBrutal: 6
+ciag: 1005 dzielnik: 3 wynikMetoda: 12 wynikBrutal: 12
+ciag: 1005 dzielnik: 4 wynikMetoda: 2 wynikBrutal: 2
+ciag: 1005 dzielnik: 5 wynikMetoda: 9 wynikBrutal: 9
+ciag: 1005 dzielnik: 6 wynikMetoda: 6 wynikBrutal: 6
+ciag: 1005 dzielnik: 7 wynikMetoda: 2 wynikBrutal: 2
+ciag: 1005 dzielnik: 8 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1005 dzielnik: 9 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1005 dzielnik: 10 wynikMetoda: 6 wynikBrutal: 6
+ciag: 1006 dzielnik: 2 wynikMetoda: 9 wynikBrutal: 9
+ciag: 1006 dzielnik: 3 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1006 dzielnik: 4 wynikMetoda: 5 wynikBrutal: 5
+ciag: 1006 dzielnik: 5 wynikMetoda: 6 wynikBrutal: 6
+ciag: 1006 dzielnik: 6 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1006 dzielnik: 7 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1006 dzielnik: 8 wynikMetoda: 3 wynikBrutal: 3
+ciag: 1006 dzielnik: 9 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1006 dzielnik: 10 wynikMetoda: 6 wynikBrutal: 6
+ciag: 1007 dzielnik: 2 wynikMetoda: 6 wynikBrutal: 6
+ciag: 1007 dzielnik: 3 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1007 dzielnik: 4 wynikMetoda: 2 wynikBrutal: 2
+ciag: 1007 dzielnik: 5 wynikMetoda: 6 wynikBrutal: 6
+ciag: 1007 dzielnik: 6 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1007 dzielnik: 7 wynikMetoda: 0 wynikBrutal: 0
+ciag: 1007 dzielnik: 8 wynikMetoda: 0 wynikBrutal: 0
